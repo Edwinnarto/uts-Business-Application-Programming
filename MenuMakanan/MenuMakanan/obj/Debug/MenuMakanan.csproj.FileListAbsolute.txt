@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\bin\Debug\MenuMakanan.exe.config
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\bin\Debug\MenuMakanan.exe
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\bin\Debug\MenuMakanan.pdb
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.FrmAdminPage.resources
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.exe
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.pdb
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.ViewAllFood.resources
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.Login.resources
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.FrmGuestPage.resources
+C:\Users\ASUS\Desktop\SEMESTER 7\4. BUSINESS APPLICATION PROGRAMMING\MenuMakanan\MenuMakanan\obj\Debug\MenuMakanan.ViewSales.resources
